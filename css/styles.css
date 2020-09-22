@@ -77,7 +77,8 @@ margin: 0;
 }
 
 .movie-grid{
-  margin: 10px 50px;
+  margin-left: auto;
+  margin-right: auto;
 
 }
 
@@ -89,6 +90,8 @@ margin: 0;
 .movie-img{
   border: 5px solid #ffa372;
 
+
+
 }
 
 .movie-title{
@@ -96,4 +99,10 @@ margin: 0;
   font-weight: 100;
   font-family: 'Merriweather Sans', sans-serif;
   font-size: 18px;
+}
+
+.grid-cell{
+height:300px;
+
+
 }
