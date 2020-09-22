@@ -1,0 +1,99 @@
+body{
+  background-color: #fef3ed;
+  margin:0;
+
+}
+
+.menu-bar{
+  background-color: #43658b;
+  position: sticky;
+  left:0;
+  top:0;
+  height:5%;
+  width:100%;
+
+}
+
+.title-header{
+font-family: 'Sacramento', cursive;
+color: white;
+text-align: center;
+position: relative;
+top:5px;
+margin-top: 10px;
+font-weight: 500;
+font-size: 34px;
+display: inline-block;
+}
+
+.logo{
+  position: relative;
+  vertical-align: middle;
+  width: 15%;
+  padding-right: 25px;
+
+}
+
+.title{
+display: inline-block;
+
+
+}
+
+.icon{
+display: inline-block;
+width: auto;
+padding: 0;
+margin: 0;
+
+
+}
+
+.iframe-class{
+  margin: 80px 80px;
+}
+
+.movie-category{
+  font-size: 30px;
+  color:#4e89ae;
+  font-family: 'Merriweather Sans', sans-serif;
+  font-weight: 400;
+  letter-spacing: 4px;
+}
+
+.movie-table{
+  border: 0;
+  width:90%;
+
+}
+
+.hr-class{
+  border-style: dotted;
+  border-width: 10px;
+  border-top:0;
+  width:7%;
+  color:#43658b;
+
+}
+
+.movie-grid{
+  margin: 10px 50px;
+
+}
+
+.movie  {
+  padding: 30px 20px 30px 20px;
+
+}
+
+.movie-img{
+  border: 5px solid #ffa372;
+
+}
+
+.movie-title{
+  color:#43658b;
+  font-weight: 100;
+  font-family: 'Merriweather Sans', sans-serif;
+  font-size: 18px;
+}
